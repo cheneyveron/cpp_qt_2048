@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>8.png</file>
+        <file>9.png</file>
+        <file>10.PNG</file>
+        <file>11.png</file>
+        <file>image/start.png</file>
+        <file>image/start2.png</file>
+        <file>image/start3.png</file>
+        <file>image/menu.png</file>
+        <file>image/classic1.png</file>
+        <file>image/classic2.png</file>
+        <file>image/helpx1.png</file>
+        <file>image/helpx2.png</file>
+        <file>image/oppo1.png</file>
+        <file>image/oppo2.png</file>
+        <file>image/x51.png</file>
+        <file>image/x52.png</file>
+        <file>image/help.png</file>
+        <file>image/about.png</file>
+        <file>image/a1.png</file>
+        <file>image/a2.png</file>
+        <file>image/a3.png</file>
+        <file>image/a4.png</file>
+        <file>image/a5.png</file>
+        <file>image/a6.png</file>
+        <file>image/a7.png</file>
+        <file>image/a8.png</file>
+        <file>image/a9.png</file>
+        <file>image/a10.png</file>
+        <file>image/a11.png</file>
+    </qresource>
+</RCC>
